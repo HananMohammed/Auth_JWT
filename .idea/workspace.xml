@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6634f6ca-4027-4170-b864-09e05c4ba549" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../tourism/assets/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../users_transfer_money/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../users_transfer_money/resources/js/components/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../users_transfer_money/resources/js/components/Homepage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../users_transfer_money/resources/js/components/Index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../users_transfer_money/resources/js/components/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AjaxTasks/file_upoad/.idea/task.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AjaxTasks/udemycourse/.idea/udemycourse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Angular/App/src/app/video.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/AbstractBook.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/AbstractBook.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/AbstractMySQLBook.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/AbstractMySQLBook.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/AbstractPHPBook.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/AbstractPHPBook.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/BookFactory/AbstractBookFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/BookFactory/AbstractBookFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/BookFactory/OReillyBookFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/BookFactory/OReillyBookFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/BookFactory/SamsBookFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/BookFactory/SamsBookFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/OReillyMySQLBook.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/OReillyMySQLBook.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/OReillyPHPBook.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/OReillyPHPBook.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/SamsMySQLBook.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/SamsMySQLBook.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/SamsPHPBook.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/SamsPHPBook.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/test/testBook.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/CreationalPatterns/AbstractFactory/Book/test/testBook.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JetstreamAuth/.idea/JetstreamAuth.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JetstreamAuth/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JetstreamAuth/public/mix-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/Http/Controllers/Admin/LocalController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/Http/Controllers/Admin/LocalController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blueEcommerce/app/Http/Helpers/helpers.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../blueEcommerce/app/Http/Helpers/helpers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blueEcommerce/resources/views/admin/brands/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../blueEcommerce/resources/views/admin/brands/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blueEcommerce/resources/views/admin/category/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../blueEcommerce/resources/views/admin/category/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blueEcommerce/resources/views/admin/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../blueEcommerce/resources/views/admin/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blueEcommerce/resources/views/admin/layouts/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../blueEcommerce/resources/views/admin/layouts/sidebar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blueEcommerce/routes/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../blueEcommerce/routes/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../course/resources/views/appLayout/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../course/resources/views/appLayout/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../course/resources/views/offers/offer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../course/resources/views/offers/offer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/.idea/dash_laravel8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/.idea/dash_laravel8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Helpers/helpers.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Helpers/helpers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/BlogCategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/BlogCategoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/BlogController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/BlogController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/BlogImageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/BlogImageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/ChallengeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/ChallengeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/CreativeServiceController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/CreativeServiceController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/DashboardController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/DashboardController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/EmployeeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/EmployeeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/FeatureController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/FeatureController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/MissionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/MissionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/NewServicesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/NewServicesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/OfferController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/OfferController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/OfferStatusController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/OfferStatusController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/PartnersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/PartnersController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/PermissionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/PermissionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/PhonesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/PhonesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/ProjectsCategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/ProjectsCategoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/ProjectsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/ProjectsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/RoleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/RoleController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/SeoController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/SeoController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/SkillsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/SkillsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/SlugController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/SlugController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/SubServiceController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Admin/SubServiceController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Requests/Admin/EmployeeStoreRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Requests/Admin/EmployeeStoreRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Requests/Admin/EmployeesUpdateRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Requests/Admin/EmployeesUpdateRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Responses/LoginResponse.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Http/Responses/LoginResponse.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/BlogArticle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/BlogArticle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/BlogCategory.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/BlogCategory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/Category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/NewCreativeServices.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/NewCreativeServices.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/NewServices.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/NewServices.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/Offers.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/Offers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/Project.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/Project.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/Seo.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/app/Models/Admin/Seo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/database/migrations/2019_11_22_000610_create_seos_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/database/migrations/2019_11_22_000610_create_seos_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/analytics/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/analytics/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/blog/article/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/blog/article/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/blog/article/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/blog/article/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/blog/article/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/blog/article/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/blog/article/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/blog/article/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/blog/category/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/blog/category/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/blog/category/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/blog/category/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/blog/category/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/blog/category/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/decision/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/decision/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/decision/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/decision/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/decision/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/decision/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/decision/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/decision/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/employee/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/employee/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/employee/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/employee/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/employee/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/employee/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/employee/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/employee/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/layouts/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/layouts/sidebar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/mail/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/mail/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/mail/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/mail/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/offers/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/offers/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/offers/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/offers/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/offers/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/offers/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/offers/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/offers/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/permission/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/permission/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/permission/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/permission/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/category/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/category/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/category/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/category/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/category/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/category/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/seo/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/projects/seo/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/roles/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/roles/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/roles/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/roles/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/seo/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/seo/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/seo/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/seo/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/seo/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/seo/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/cards/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/cards/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/cards/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/cards/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/cards/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/cards/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/cards/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/cards/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/creative-service/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/creative-service/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/creative-service/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/creative-service/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/creative-service/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/creative-service/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/creative-service/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/creative-service/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/resources/views/admin/services/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dash_laravel8/routes/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../dash_laravel8/routes/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mvc-framework/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../../mvc-framework/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mvc-framework/app/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../../mvc-framework/app/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mvc-framework/app/controllers/Pages.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../mvc-framework/app/controllers/Pages.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mvc-framework/app/models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../mvc-framework/app/models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mvc-framework/app/views/pages/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../mvc-framework/app/views/pages/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mvc-framework/app/views/pages/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../mvc-framework/app/views/pages/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mvc-framework/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../../mvc-framework/public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wasel/app/Http/Traits/SendEmail.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../wasel/app/Http/Traits/SendEmail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wasel/resources/views/customer/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../wasel/resources/views/customer/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wasel/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../wasel/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wasel/resources/views/layouts/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../wasel/resources/views/layouts/sidebar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wasel/resources/views/mails/mail.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../wasel/resources/views/mails/mail.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wasel/resources/views/order/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../wasel/resources/views/order/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wasel/resources/views/order/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../wasel/resources/views/order/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wasel/resources/views/order/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../wasel/resources/views/order/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wasel/resources/views/order/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../wasel/resources/views/order/index.blade.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1mcGdeY7meV7EKukvyczEcIOdlg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6634f6ca-4027-4170-b864-09e05c4ba549" name="Default Changelist" comment="" />
+      <created>1609785557565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609785557565</updated>
+      <workItem from="1609785560891" duration="2343000" />
+      <workItem from="1609791539733" duration="7203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
